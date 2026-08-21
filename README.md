@@ -36,6 +36,6 @@ Tools: Python, pandas, matplotlib / plotly
 Load data directly via pandas.read_csv() from UN official URL  
 Filter ISO3 = LBN, clean, visualize  
 
-**Expected Output:**
+**Expected Output:**  
 4-6 charts (population curve, median age, fertility, life expectancy, comparison,immigration)  
 
