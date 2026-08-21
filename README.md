@@ -26,8 +26,8 @@ Compare Total fertility rate of Lebanon vs  World average rate
 Compare Life Expectancy at birth of Lebanon vs  World average rate    
 
 **5. Future Projections**  
-What are the 3 UN scenarios (Low, Medium, High) for Lebanon in 2050?  
-When will Lebanon’s population peak and start to decline?  
+What is the UN scenario Immigration projection for Lebanon in 2050?  
+ 
 
 **Methodology**  
 
