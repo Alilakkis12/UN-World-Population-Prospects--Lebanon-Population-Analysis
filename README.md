@@ -6,35 +6,40 @@ To analyze population trends for Lebanon using official UN WPP data, understand 
 
 Specific Objectives:
 
-1. Population Growth Analysis
+**1. Population Growth Analysis**
 
 How did Lebanon’s total population change from 1950-2023?  
 When was the fastest growth?  
-What does UN project for 2030, 2050, 2100?  
-2. Age Structure Analysis  
+What does UN project for 2030, 2050, 2100? 
+
+**2. Age Structure Analysis**  
 
 Is Lebanon getting older? Track median age over time  
 
-Working age vs elderly population    
-3. Fertility & Life Expectancy  
+Working age vs elderly population  
+
+**3. Fertility & Life Expectancy**  
 How did fertility rate (TFR) drop?  
 How did life expectancy improve?  
 Relationship between fertility decline and population growth  
-4. Comparison Analysis
+
+**4. Comparison Analysis**  
 
 Lebanon vs neighboring countries: Syria, Jordan, Turkey  
 Lebanon vs MENA average vs World average  
-5. Future Projections  
+
+**5. Future Projections**  
 What are the 3 UN scenarios (Low, Medium, High) for Lebanon in 2050?  
 When will Lebanon’s population peak and start to decline?  
-Methodology:
+
+**Methodology**  
 
 Data source: UN WPP 2024 Standard Projections (CSV format)  
 Tools: Python, pandas, matplotlib / plotly  
 Load data directly via pandas.read_csv() from UN official URL  
 Filter ISO3 = LBN, clean, visualize  
-Expected Output:
 
+**Expected Output:**
 4-5 charts (population curve, median age, fertility, life expectancy, comparison)  
 Streamlit dashboard (optional)  
 Insights summary in README  
