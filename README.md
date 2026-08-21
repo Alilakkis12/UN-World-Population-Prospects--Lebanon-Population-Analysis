@@ -23,6 +23,7 @@ How did life expectancy improve?
 
 **4. Comparison Analysis**  
 Compare Total fertility rate of Lebanon vs  World average rate  
+Compare Life Expectancy at birth of Lebanon vs  World average rate    
 
 **5. Future Projections**  
 What are the 3 UN scenarios (Low, Medium, High) for Lebanon in 2050?  
