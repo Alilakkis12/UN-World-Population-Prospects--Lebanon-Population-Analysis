@@ -37,6 +37,5 @@ Load data directly via pandas.read_csv() from UN official URL
 Filter ISO3 = LBN, clean, visualize  
 
 **Expected Output:**
-4-5 charts (population curve, median age, fertility, life expectancy, comparison)  
-Streamlit dashboard (optional)  
-Insights summary in README  
+4-6 charts (population curve, median age, fertility, life expectancy, comparison,immigration)  
+
