@@ -22,9 +22,7 @@ How did fertility rate (TFR) drop?
 How did life expectancy improve?  
 
 **4. Comparison Analysis**  
-
-Lebanon vs neighboring countries: Syria, Jordan, Turkey  
-Lebanon vs MENA average vs World average  
+Compare Total fertility rate of Lebanon vs  World average rate  
 
 **5. Future Projections**  
 What are the 3 UN scenarios (Low, Medium, High) for Lebanon in 2050?  
