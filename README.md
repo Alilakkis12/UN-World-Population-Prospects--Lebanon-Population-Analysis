@@ -1,10 +1,11 @@
 # UN-World-Population-Prospects--Lebanon-Population-Analysis
 
-Project Title: UN World Population Prospects 2024 - Lebanon Population Analysis
-Main Objective:
+Project Title: UN World Population Prospects 2024 - Lebanon Population Analysis  
+
+**Main Objective**  
 To analyze population trends for Lebanon using official UN WPP data, understand how Lebanon’s demographics changed from 1950 to 2023 and what the UN projects until 2100.  
 
-Specific Objectives:
+**Specific Objectives**
 
 **1. Population Growth Analysis**
 
