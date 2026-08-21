@@ -43,4 +43,3 @@ Filter ISO3 = LBN, clean, visualize
 4-5 charts (population curve, median age, fertility, life expectancy, comparison)  
 Streamlit dashboard (optional)  
 Insights summary in README  
-Want me to turn this into a full README.md with charts placeholders you can fill?
