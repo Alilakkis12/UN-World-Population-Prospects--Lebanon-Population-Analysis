@@ -20,7 +20,6 @@ Is Lebanon getting older?
 **3. Fertility & Life Expectancy**  
 How did fertility rate (TFR) drop?  
 How did life expectancy improve?  
-Relationship between fertility decline and population growth  
 
 **4. Comparison Analysis**  
 
