@@ -14,9 +14,8 @@ What does UN project for 2030, 2050, 2100?
 
 **2. Age Structure Analysis**  
 
-Is Lebanon getting older? Track median age over time  
+Is Lebanon getting older?   
 
-Working age vs elderly population  
 
 **3. Fertility & Life Expectancy**  
 How did fertility rate (TFR) drop?  
