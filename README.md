@@ -34,7 +34,7 @@ What is the UN scenario Immigration projection for Lebanon in 2050?
 
 Data source: UN WPP 2024 Standard Projections (CSV format)  
 Tools: Python, pandas, matplotlib / plotly  
-Load data directly via pandas.read_csv() from UN official URL  
+Load data directly via pandas.read_csv() from UN official url: https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format  
 Filter ISO3 = LBN, clean, visualize  
 
 **Expected Output:**  
