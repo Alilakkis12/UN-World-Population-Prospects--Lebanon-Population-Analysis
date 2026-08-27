@@ -41,6 +41,6 @@ To answer:
 Tools: Python, pandas, matplotlib / plotly  
 Choose Lebanon from the table of UN measurements by Filtering ISO3 = LBN, then clean, visualize  .
 
-**Expected Output:**  
+**Analysis and Output**  
 4-6 charts (population curve, median age, fertility, life expectancy, comparison,immigration)  
 
