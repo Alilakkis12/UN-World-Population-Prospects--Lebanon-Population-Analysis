@@ -15,35 +15,29 @@ File: WPP2024_Demographic_Indicators_Medium.csv
 **Main Objective**  
 
 To analyze population trends for Lebanon using official UN WPP data, understand how Lebanon’s demographics changed from 1950 to 2023 and what the UN projects until 2100.  
-
+9
 **Specific Objectives**
 
-**1. Population Growth Analysis**
+To answer:
 
-How did Lebanon’s total population change from 1950-2023?  
-When was the fastest growth?  
-What does UN project for 2030, 2050, 2100? 
-
-**2. Age Structure Analysis**  
-
-Is Lebanon getting older?   
-
-
-**3. Fertility & Life Expectancy**  
-How did fertility rate (TFR) drop?  
-How did life expectancy improve?  
-
-**4. Comparison Analysis**  
-Compare Total fertility rate of Lebanon vs  World average rate  
-Compare Life Expectancy at birth of Lebanon vs  World average rate    
-
-**5. Future Projections**  
-What is the UN scenario Immigration projection for Lebanon in 2050?  
+- How did Lebanon's total population change from 1950-2023 ?
+- 
+- When was the fastest growth?
+- 
+- Is Lebanon getting older? (MedianAgePop)
  
+- How did fertility rate (TFR) drop?
+
+- How did life expectancy (LEx) improve and why did it crash?
+
+- How does Lebanon compare to World for Total fertility rate (TFR) and  World average rate (LEx) ?
+ 
+- How did net migration change?
+
+- What is the UN scenario Immigration projection for Lebanon 2030, 2050, 2100?
 
 **Methodology**  
 
-Data source: UN WPP 2024 Standard Projections (CSV format)  
 Tools: Python, pandas, matplotlib / plotly  
 Load data directly via pandas.read_csv() from UN official url: https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format  
 Filter ISO3 = LBN, clean, visualize  
