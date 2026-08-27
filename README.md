@@ -21,9 +21,9 @@ To analyze population trends for Lebanon using official UN WPP data, understand 
 To answer:
 
 - How did Lebanon's total population change from 1950-2023 ?
-- 
+ 
 - When was the fastest growth?
-- 
+ 
 - Is Lebanon getting older? (MedianAgePop)
  
 - How did fertility rate (TFR) drop?
@@ -39,8 +39,7 @@ To answer:
 **Methodology**  
 
 Tools: Python, pandas, matplotlib / plotly  
-Load data directly via pandas.read_csv() from UN official url: https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format  
-Filter ISO3 = LBN, clean, visualize  
+Choose Lebanon from the table of UN measurements by Filtering ISO3 = LBN, then clean, visualize  .
 
 **Expected Output:**  
 4-6 charts (population curve, median age, fertility, life expectancy, comparison,immigration)  
