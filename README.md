@@ -15,7 +15,7 @@ File: WPP2024_Demographic_Indicators_Medium.csv
 **Main Objective**  
 
 To analyze population trends for Lebanon using official UN WPP data, understand how Lebanon’s demographics changed from 1950 to 2023 and what the UN projects until 2100.  
-9
+
 **Specific Objectives**
 
 To answer:
