@@ -99,6 +99,7 @@ The country is becoming older with time:
 Comparing Lebanon vs World for fertility rate: TFR  
 ![Line plot TFR_World vs TFR_LBN 1950-2023](Chart7_comparison_TFR.png)  
 
+Findings of Lebanon records:  
 Phase A 1950-1965 High and stable ~5.8 - Pre-transition, rural society, low contraception.  
 Phase B 1965-1990 Rapid decline 5.8 -> 3.4 - Female education + Beirut urbanization, later marriage age - civil war 1975-1990 delayed family formation, contraception access.  
 Phase C 1990-2008 Below replacement 3.4 -> 2.1 - Post-war, more women in workforce. Reached 2.1 around 2005.
@@ -108,7 +109,7 @@ Phase D 2008-2023 Stable low ~2.2-2.4
 Comparing Lebanon vs World for Life Expectancy at birth: LEx
 ![Line plot LEx_World vs LEx_LBN 1950-2023 with Corona Pandemic annotation](Chart8_comparison_LEx.png)  
 
-How did LEx improve? 60 to 78 years - with 2 crashes  
+In Lebanon :How did LEx improve? 60 to 78 years - with 2 crashes  
 1950-1974: 60 -> 66 years  
 CRASH 1: 1975-1976 -> 37 years - Start of Civil War  
 CRASH 2: 1982 -> 46 years - Israeli invasion of Lebanon, siege of Beirut  
