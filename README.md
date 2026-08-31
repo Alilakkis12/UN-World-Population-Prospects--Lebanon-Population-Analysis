@@ -74,21 +74,44 @@ Key insight:
 2016 peak   ~6.23M (including refugees)  
 2023        ~5.8M. Fastest growth was in 2012-2014.
 
-### 4.2 UN Projection 2030, 2050, 2100
 
-What does UN project for 2030, 2050, 2100?
 
-Here Chart 3 - Chart3_Population_Change1950-2100
-[Line plot 1950-2100 full projection]
+Chart4_Median_change.png
+Chart
+last week
+Chart5_TFR_Lebanon.png
+Chart
+last week
+Chart6_LEx_Lebanon.png
+Chart
+last week
+Chart7_comparison_TFR.png
+Chart
+last week
+Chart8_comparison_LEx.png
+Chart
+last week
+Chart9_Immigration1950_2100.png
+
+### 4.2 UN Population Projection 2030, 2050, 2100
+
+What does UN project about populationfor 2030, 2050, 2100?
+
+![Line Plot : 1950-2100 full projection](Chart3_Population_Change1950-2100.png)
 
 ### 4.3 Age Structure Analysis
 
 Is Lebanon getting older?
 
 Here Chart 4 - Chart4_Median_change
-[Line plot MedianAgePop vs Time]
+![Chart4_Median_change](Chart4_Median_change.png)
 
-Finding: The country is becoming older with time. 1950: ~18y -> 2023: ~31y -> 2100 projected ~45y.
+
+Finding:  
+The country is becoming older with time:  
+1950             ~18y  
+2023             ~31y  
+2100 projected   ~45y.
 
 ### 4.4 Fertility & Life Expectancy
 
