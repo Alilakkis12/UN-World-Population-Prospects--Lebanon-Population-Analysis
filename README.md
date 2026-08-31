@@ -128,3 +128,5 @@ Comparing Lebanon vs World for Life Expectancy at birth: LEx
 ### 4.6 UN Projection For future net migration For Leabnon
 
 What does UN project for future net migration for Lebanon until 2100?
+
+![Chart9_Immigration1950_2100.png](Chart9_Immigration1950_2100.png)
