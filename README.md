@@ -94,20 +94,19 @@ The country is becoming older with time:
 2023             ~31y  
 2100 projected   ~45y.
 
-### 4.4 Fertility & Life Expectancy
-
-**Fertility Rate Per Woman: TFR**
-
-![Line plot TFR 1950-2023](Chart5_TFR_Lebanon.png)
+### 4.4 Lebanon vs World Comparison: Fertility & Life Expectancy  
+**Fertility Rate Per Woman: TFR**  
+Comparing Lebanon vs World for fertility rate: TFR  
+![Line plot TFR_World vs TFR_LBN 1950-2023](Chart7_comparison_TFR.png)  
 
 Phase A 1950-1965 High and stable ~5.8 - Pre-transition, rural society, low contraception.  
 Phase B 1965-1990 Rapid decline 5.8 -> 3.4 - Female education + Beirut urbanization, later marriage age - civil war 1975-1990 delayed family formation, contraception access.  
 Phase C 1990-2008 Below replacement 3.4 -> 2.1 - Post-war, more women in workforce. Reached 2.1 around 2005.
-Phase D 2008-2023 Stable low ~2.2-2.4
+Phase D 2008-2023 Stable low ~2.2-2.4  
 
-**Life Expectancy at Birth: LEx**
-
-![Line plot LEx 1950-2023](Chart6_LEx_Lebanon.png)
+**Life Expectancy at Birth: LEx**  
+Comparing Lebanon vs World for Life Expectancy at birth: LEx
+![Line plot LEx_World vs LEx_LBN 1950-2023 with Corona Pandemic annotation](Chart8_comparison_LEx.png)  
 
 How did LEx improve? 60 to 78 years - with 2 crashes  
 1950-1974: 60 -> 66 years  
@@ -117,15 +116,8 @@ CRASH 2: 1982 -> 46 years - Israeli invasion of Lebanon, siege of Beirut
 1991-2019: 71 -> 78.5 years  
 CRASH 3: 2020-2021: 78.2 -> 73.5 years - COVID-19 + Beirut port explosion + economic collapse
 
-### 4.5 Lebanon vs World Comparison
-Comparing Lebanon vs World for fertility rate: TFR  
-![Line plot TFR_World vs TFR_LBN 1950-2023](Chart7_comparison_TFR.png)  
 
-Comparing Lebanon vs World for Life Expectancy at birth: LEx
-![Line plot LEx_World vs LEx_LBN 1950-2023 with Corona Pandemic annotation](Chart8_comparison_LEx.png)
-
-
-### 4.6 UN Projection For future net migration For Leabnon
+### 4.5 UN Projection For future net migration For Leabnon
 
 What does UN project for future net migration for Lebanon until 2100?
 
