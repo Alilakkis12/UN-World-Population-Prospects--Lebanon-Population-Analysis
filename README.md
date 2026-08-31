@@ -16,6 +16,22 @@ File: WPP2024_Demographic_Indicators_Medium.csv
 
 To analyze population trends for Lebanon using official UN WPP data, understand how Lebanon’s demographics changed from 1950 to 2023 and what the UN projects until 2100.  
 
+**Data and Features Chosen**
+
+  Chosen features - efficient minimal set covering demographic balancing equation:
+
+- Time: Year 1950-2100
+- TPopulation1July: Total population in thousands (mid-year)
+-  PopGrowthRate: Annual growth %
+-  MedianAgePop: Median age - aging indicator
+-  TFR: Total Fertility Rate - average kids per woman - MOST IMPORTANT
+- LEx: Life Expectancy at birth
+- CBR: Crude Birth Rate - births per 1000 people
+- CDR: Crude Death Rate - deaths per 1000 people
+- NetMigrations: Immigrants - Emigrants (negative = people leaving)
+
+
+
 **Specific Objectives**
 
 To answer:
