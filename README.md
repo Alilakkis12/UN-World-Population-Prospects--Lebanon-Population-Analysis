@@ -105,7 +105,7 @@ Phase B 1965-1990 Rapid decline 5.8 -> 3.4 - Female education + Beirut urbanizat
 Phase C 1990-2008 Below replacement 3.4 -> 2.1 - Post-war, more women in workforce. Reached 2.1 around 2005.
 Phase D 2008-2023 Stable low ~2.2-2.4
 
-**Life Expectancy: LEx**
+**Life Expectancy at Birth: LEx**
 
 ![Line plot LEx 1950-2023](Chart6_LEx_Lebanon.png)
 
@@ -118,12 +118,13 @@ CRASH 2: 1982 -> 46 years - Israeli invasion of Lebanon, siege of Beirut
 CRASH 3: 2020-2021: 78.2 -> 73.5 years - COVID-19 + Beirut port explosion + economic collapse
 
 ### 4.5 Lebanon vs World Comparison
+Comparing Lebanon vs World for fertility rate: TFR  
+![Line plot TFR_World vs TFR_LBN 1950-2023](Chart7_comparison_TFR.png  
 
-![Line plot TFR_World vs TFR_LBN 1950-2023](Chart7_comparison_TFR.png
-
+Comparing Lebanon vs World for Life Expectancy at birth: LEx
 ![Line plot LEx_World vs LEx_LBN 1950-2023 with Corona Pandemic annotation](Chart9_comparison_LEx.png)
 
 
+### 4.6 UN Projection For future net migration For Leabnon
 
-(Chart8_comparison_LEx.png)
-
+What does UN project for future net migration for Lebanon until 2100?
