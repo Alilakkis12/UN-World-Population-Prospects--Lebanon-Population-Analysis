@@ -96,7 +96,7 @@ The country is becoming older with time:
 
 ### 4.4 Fertility & Life Expectancy
 
-**Fertility Rate: TFR**
+**Fertility Rate Per Woman: TFR**
 
 ![Line plot TFR 1950-2023](Chart5_TFR_Lebanon.png)
 
