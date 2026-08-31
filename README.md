@@ -119,8 +119,8 @@ CRASH 3: 2020-2021: 78.2 -> 73.5 years - COVID-19 + Beirut port explosion + econ
 
 ### 4.5 Lebanon vs World Comparison
 Comparing Lebanon vs World for fertility rate: TFR  
-![Line plot TFR_World vs TFR_LBN 1950-2023](Chart7_comparison_TFR.png)
-Chart8_comparison_LEx.png
+![Line plot TFR_World vs TFR_LBN 1950-2023](Chart7_comparison_TFR.png)  
+
 Comparing Lebanon vs World for Life Expectancy at birth: LEx
 ![Line plot LEx_World vs LEx_LBN 1950-2023 with Corona Pandemic annotation](Chart8_comparison_LEx.png)
 
