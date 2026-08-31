@@ -65,10 +65,9 @@ Choose Lebanon from the table of UN measurements by Filtering ISO3 = LBN, then c
 How did Lebanon's total population change from 1950-2023? When was the fastest growth?
 
 Here Chart 1 - Chart1_Population_growth.png
-[Bar plot 1950-2023 of TPopulation1July]
+[Chart1_Population_growth.png]
 
-Here Chart 2 - Chart2_Population_Change1950-2023
-[Line plot 1950-2023 with annotations: Syrian refugee crisis 2012, Refugees returning + crisis + emigration 2017]
+[Chart2_Population_Change1950-2023.png]
 
 Key insight:  
 1950        ~1.36M   
