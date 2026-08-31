@@ -119,10 +119,9 @@ CRASH 3: 2020-2021: 78.2 -> 73.5 years - COVID-19 + Beirut port explosion + econ
 
 ### 4.5 Lebanon vs World Comparison
 
-![Line plot TFR_World vs TFR_LBN 1950-2023](Chart8_comparison_LEx.png)
+![Line plot TFR_World vs TFR_LBN 1950-2023](Chart7_comparison_TFR.png
 
-Here Chart 8 - Chart8_comparison_LEx
-[Line plot LEx_World vs LEx_LBN 1950-2023 with Corona Pandemic annotation](Chart9_comparison_LEx.png)
+![Line plot LEx_World vs LEx_LBN 1950-2023 with Corona Pandemic annotation](Chart9_comparison_LEx.png)
 
 
 
