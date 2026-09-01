@@ -217,4 +217,7 @@ After 2019 Pop-difference-rate dropped to ∼3 per 1000, so it could no longer a
 In 2020 Migration was ~-50 per 1000, so Total became -47 — the loss increased.
 For 2024-2100 UN projects Migration ∼0, but Pop-difference-rate goes negative after 2045, so Total stays negative.
 
-### 9 Conclusion
+### 9 Conclusion  
+
+-Age structure is shifting from youthful to aged, which will increase the old-age dependency ratio.  
+-Migration won't fill the gap of depopulation, and the population growth won't absorb migration loss, but increases it instead.
