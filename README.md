@@ -48,8 +48,8 @@ To answer:
 
 **6. Methodology**  
 
-Tools: Python, pandas.
-Choose Lebanon from the table of UN measurements by Filtering ISO3 = LBN, then clean, visualize  .
+Tools: Python, pandas.  
+Choosed Lebanon from the table of UN measurements by Filtering ISO3 = LBN, then cleaned, visualized, analyzed, and concluded.
 
 **7. Analysis and Output**  
 11 charts (population curve, median age, fertility, life expectancy, comparison,immigration)  
