@@ -205,10 +205,6 @@ UN WPP 2024 assumes migration returns to normal long-term average -0.9 per 1000 
 ![Chart11_Total.png](Chart11_Total.png)  
 
 Total growth = Pop-difference-rate + Migration.  
-After 2019  
-Pop-difference-rate dropped to 3 per 1000, so it could no longer absorb migration shocks.  
-In 2020  
-Migration was 50 per 1000, so Total became 47, so the loss increased.  
 For 2024-2100  
 UN projects Migration 0, but Pop-difference-rate goes negative after 2045, so Total stays negative.
 
