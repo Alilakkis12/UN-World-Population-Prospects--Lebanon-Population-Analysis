@@ -211,7 +211,7 @@ UN projects 0 Migration, but Pop-difference-rate goes negative after 2045, so To
 ### 9 Conclusion  
 -Lebanon experienced rapid population growth until 2016 due to natural increase and refugee inflow, followed by decline due to imigration and low fertility.  
 -Fertility dropped from 5.8 to below replacement 2.1 around 2005.  
--Life expectancy shows war-related crashes that match Lebanese history.  
+-Life expectancy showed war-related crashes that match Lebanese history.  
 -Age structure is shifting from youthful to aged, which will increase the old-age dependency ratio.  
 -Migration won't fill the gap of depopulation, and the population growth won't absorb migration loss, but increases it instead.
 
