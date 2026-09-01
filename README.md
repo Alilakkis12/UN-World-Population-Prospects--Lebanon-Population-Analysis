@@ -182,7 +182,8 @@ So the median age increase is a consequence of decline in fertility rate.
 ![Chart9_CBR_CDR.png](Chart9_CBR_CDR.png)
   
 Why: Populaton difference rate = births - deaths per 1000.    
-If this is >0, population grows naturally. If <0, more people die than are born. That's the core of depopulation.
+If this is >0, population grows naturally. If <0, more people die than are born.  
+At 2081, depopulation started.
 
 ### 8.9 How the migration numbers in Lebanon got affected from 1950 till 2026, and what did the UN project about migration numbers for the future?
 
