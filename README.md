@@ -36,21 +36,25 @@ To analyze population trends for Lebanon using official UN WPP data, understand 
 
 To answer:
 
-- How did Lebanon's total population change from 1950-2023 ?
+- How did Lebanon's total population change from 1950-2026 ?
+
+- What is the UN scenario Immigration projection for Lebanon 2030, 2050, 2100?
  
 - When was the fastest growth?
  
 - Is Lebanon getting older? (MedianAgePop)
+
+ -How does Lebanon compare to World for Total fertility rate (TFR) and  World average rate (LEx) ?
  
-- How did fertility rate (TFR) drop?
+ - How did fertility rate (TFR) drop?
 
-- How did life expectancy (LEx) improve and why did it crash?
-
-- How does Lebanon compare to World for Total fertility rate (TFR) and  World average rate (LEx) ?
+ - Are the fertility rate (TFR) and median age(MEdianAgePop) related ?
  
-- How did net migration change?
+- How the Crude Birth rates and Death Birth Rates are changing, and is there population growth or depopulation?
 
-- What is the UN scenario Immigration projection for Lebanon 2030, 2050, 2100?
+- How the migration numbers in Lebanon got affected from 1950 till 2026, and what did the UN project about migration numbers for the future?
+
+-  Will the miration numbers for Lebanon fill the depopulation gap in the future ?
 
 **Methodology**  
 
@@ -60,7 +64,7 @@ Choose Lebanon from the table of UN measurements by Filtering ISO3 = LBN, then c
 **Analysis and Output**  
 4-6 charts (population curve, median age, fertility, life expectancy, comparison,immigration)  
 
-### 4.1 Population Growth Analysis 1950-2023
+### 4.1 Population Growth Analysis 1950-2026
 
 How did Lebanon's total population change from 1950-2023? When was the fastest growth?
 
