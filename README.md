@@ -92,7 +92,7 @@ Finding:
 The country is becoming older with time:  
 1950             ~18y  
 2023             ~31y  
-2100 projected   ~45y.
+2100 projected   ~48y.
 
 ### 8.4 Lebanon vs World Comparison: Fertility & Life Expectancy  
 **Fertility Rate Per Woman: TFR**  
