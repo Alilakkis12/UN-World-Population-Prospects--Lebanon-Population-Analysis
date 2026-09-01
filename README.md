@@ -66,10 +66,8 @@ Choose Lebanon from the table of UN measurements by Filtering ISO3 = LBN, then c
 
 How did Lebanon's total population change from 1950-2025? When was the fastest growth?
 
-Here Chart1
 ![Chart1_Population_growth.png](Chart1_Population_growth.png)
 
-Chart2
 ![Chart2_Population_Change1950-2026.png](Chart2_Population_Change1950-2026.png)
 
 Key insight:  
@@ -81,14 +79,12 @@ Key insight:
 
 What does UN project about populationfor 2030, 2050, 2100?
 
-Chart3
 ![Chart3_Population_Change1950-2100.png](Chart3_Population_Change1950-2100.png)
 
 ### 8.3 Age Structure Analysis
 
 Is Lebanon getting older?
 
-Here Chart 4 - Chart4_Median_change
 ![Chart4_Median_change.png](Chart4_Median_change.png)
 
 
@@ -103,7 +99,7 @@ The country is becoming older with time:
 Comparing Lebanon vs World for fertility rate: TFR 
  -How does Lebanon compare to World for Total fertility rate (TFR) and  World average rate (LEx) ?
 
-Chart5
+
 ![Chart5_comparison_TFR.png](Chart5_comparison_TFR.png)  
 
 Findings of Lebanon records:  
@@ -129,7 +125,6 @@ Slight bump 2008-2015 due to relative stability, then flat. Now slightly below r
 **8.5 Life Expectancy at Birth: LEx**  
 Comparing Lebanon vs World for Life Expectancy at birth: LEx
 
-Chart6
 ![Chart6_comparison_LEx.png](Chart6_comparison_LEx.png)  
   
 How did LEx improve?
