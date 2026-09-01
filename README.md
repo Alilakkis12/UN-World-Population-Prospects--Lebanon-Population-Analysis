@@ -2,21 +2,21 @@
 
 Project Title: UN World Population Prospects 2024 - Lebanon Population Analysis  
 
-**1. Introduction**
+### 1. Introduction
 
 This project analyzes Lebanon's demographic evolution using UN World Population Prospects 2024 (Medium Variant).
 
-**2. Data Source**
+### 2. Data Source
 
 Official source: https://population.un.org/wpp/
 
 File: WPP2024_Demographic_Indicators_Medium.csv
 
-**3. Main Objective**  
+### 3. Main Objective  
 
 To analyze population trends for Lebanon using official UN WPP data, understand how Lebanon’s demographics changed from 1950 to 2023 and what the UN projects until 2100.  
 
-**4. Data and Features Chosen**
+### 4. Data and Features Chosen
 
   Chosen features - efficient minimal set covering demographic balancing equation:
 
@@ -32,7 +32,7 @@ To analyze population trends for Lebanon using official UN WPP data, understand 
 
 
 
-**5. Specific Objectives**
+### 5. Specific Objectives
 
 To answer:
 
@@ -46,12 +46,12 @@ To answer:
 - How the migration numbers in Lebanon got affected from 1950 till 2026, and what did the UN project about migration numbers for the future?
 - Will the miration numbers for Lebanon fill the depopulation gap in the future ?
 
-**6. Methodology**  
+### 6. Methodology  
 
 Tools: Python, pandas.  
 Choosed Lebanon from the table of UN measurements by Filtering ISO3 = LBN, then cleaned, visualized, analyzed, and concluded.
 
-**7. Analysis and Output**  
+### 7. Analysis and Output    
 11 charts (population curve, median age, fertility, life expectancy, comparison with World records, population growth rate, immigration)  
 
 ### 8.1 Population Growth Analysis 1950-2026
