@@ -67,10 +67,10 @@ Choose Lebanon from the table of UN measurements by Filtering ISO3 = LBN, then c
 How did Lebanon's total population change from 1950-2025? When was the fastest growth?
 
 Here Chart1
-![Bar Chart: Population growth from 1950-2023](Chart1_Population_growth.png)
+![Chart1_Population_growth.png](Chart1_Population_growth.png)
 
 Chart2
-![Line Chart: Population growth from 1950-2023](Chart2_Population_Change1950-2023.png)
+![Chart2_Population_Change1950-2026.png](Chart2_Population_Change1950-2026.png)
 
 Key insight:  
 1950        ~1.36M   
@@ -82,14 +82,14 @@ Key insight:
 What does UN project about populationfor 2030, 2050, 2100?
 
 Chart3
-![Line Plot : 1950-2100 full projection](Chart3_Population_Change1950-2100.png)
+![Chart3_Population_Change1950-2100.png](Chart3_Population_Change1950-2100.png)
 
 ### 8.3 Age Structure Analysis
 
 Is Lebanon getting older?
 
 Here Chart 4 - Chart4_Median_change
-![Chart4_Median_change](Chart4_Median_change.png)
+![Chart4_Median_change.png](Chart4_Median_change.png)
 
 
 Finding:  
@@ -104,7 +104,7 @@ Comparing Lebanon vs World for fertility rate: TFR
  -How does Lebanon compare to World for Total fertility rate (TFR) and  World average rate (LEx) ?
 
 Chart5
-![Line plot TFR_World vs TFR_LBN 1950-2023](Chart7_comparison_TFR.png)  
+![Chart5_comparison_TFR.png](Chart5_comparison_TFR.png)  
 
 Findings of Lebanon records:  
 
@@ -131,7 +131,7 @@ Slight bump 2008-2015 due to relative stability, then flat. Now slightly below r
 Comparing Lebanon vs World for Life Expectancy at birth: LEx
 
 Chart6
-![Line plot LEx_World vs LEx_LBN 1950-2023 with Corona Pandemic annotation](Chart8_comparison_LEx.png)  
+![Chart6_comparison_LEx.png](Chart6_comparison_LEx.png)  
 
 How did LEx improve?
 
@@ -166,8 +166,8 @@ Lebanon drop is 3x larger.
 Lebanon Rebound to 77.9y.
 
 ### 8.6 How did fertility rate (TFR) drop?  
-Chart7  
-
+ 
+![Chart7_LBN_LEx.png](Chart7_LBN_LEx.png)
 What is TFR of 2:1 ? It means each 2 parents are having 1 child, that is : replaced by one child.
 Why 2.1 and not 2.0?
 Parents need 2 children to replace them 0.1 extra because some children don't survive to adulthood, and slightly more boys are born than girls
@@ -181,24 +181,23 @@ That's why median age goes from 20 to 45.
 
 ### 8.7 Are the fertility rate (TFR) and median age(MEdianAgePop) related ?  
 
-Chart8
+![Chart8_TFR_Mdn.png](Chart8_TFR_Mdn.png)
 
 We notice that the median age is inversly proportional to Fertility rate. And by lgic when no new borns are increasing, the median age increases.
 So the median age increase is a consequence of decline in fertility rate.  
 
 ### 8.8 How the Crude Birth rates and Death Birth Rates are changing, and is there population growth or depopulation?
 
-Chart9
+![Chart9_CBR_CDR.png](Chart9_CBR_CDR.png)
 
 Why: Populaton difference rate = births - deaths per 1000.  
 If this is >0, population grows naturally. If <0, more people die than are born. That's the core of depopulation.
 
 ### 8.9 How the migration numbers in Lebanon got affected from 1950 till 2026, and what did the UN project about migration numbers for the future?
 
-Chart 10 
-
-2019 economic crisis starts
-
+![Chart10_Immigration1950_2100.png](Chart10_Immigration1950_2100.png)
+  
+2019 economic crisis starts  
 Banks freeze dollars
 -Lira devalues 90%, this means People WANT to leave but CAN'T afford ticket + visa.
 So outflow drops from -270 to -150.
@@ -211,7 +210,7 @@ UN projection smooths to 0
 -UN WPP 2024 assumes migration returns to normal long-term average -0.9 per 1000 So they model it as flat near 0
 ### 8.10 -  Will the miration numbers for Lebanon fill the depopulation gap in the future ?
 
-Chart11
+![Chart11_Total.png](Chart11_Total.png)
 
 Total growth = Pop-difference-rate + Migration.
 After 2019 Pop-difference-rate dropped to ∼3 per 1000, so it could no longer absorb migration shocks.
