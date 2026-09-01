@@ -1,4 +1,4 @@
-# UN-World-Population-Prospects--Lebanon-Population-Analysis
+# UN-World-Population-Prospects: Lebanon-Population-Analysis
 
 Project Title: UN World Population Prospects 2024 - Lebanon Population Analysis  
 
