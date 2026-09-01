@@ -52,7 +52,7 @@ Tools: Python, pandas.
 Choosed Lebanon from the table of UN measurements by Filtering ISO3 = LBN, then cleaned, visualized, analyzed, and concluded.
 
 **7. Analysis and Output**  
-11 charts (population curve, median age, fertility, life expectancy, comparison,immigration)  
+11 charts (population curve, median age, fertility, life expectancy, comparison with World records, population growth rate, immigration)  
 
 ### 8.1 Population Growth Analysis 1950-2026
 
