@@ -206,7 +206,7 @@ UN WPP 2024 assumes migration returns to normal long-term average -0.9 per 1000 
 
 Total growth = Pop-difference-rate + Migration.  
 For 2024-2100  
-UN projects Migration 0, but Pop-difference-rate goes negative after 2045, so Total stays negative.
+UN projects 0 Migration, but Pop-difference-rate goes negative after 2045, so Total stays negative.
 
 ### 9 Conclusion  
   
