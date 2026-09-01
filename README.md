@@ -168,7 +168,6 @@ If TFR < 2.1 = each generation is smaller than the last
 If TFR = 2.1 = population exactly replaces itself  
 
 Once it is 2.1 for 25+ years, society can never recover because there is fewer mothers in the next generation.  
-That's why median age goes from 20 to 45.
 
 
 ### 8.7 Are the fertility rate (TFR) and median age(MEdianAgePop) related ?  
