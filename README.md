@@ -2,21 +2,21 @@
 
 Project Title: UN World Population Prospects 2024 - Lebanon Population Analysis  
 
-**Introduction**
+**1. Introduction**
 
 This project analyzes Lebanon's demographic evolution using UN World Population Prospects 2024 (Medium Variant).
 
-**Data Source**
+**2. Data Source**
 
 Official source: https://population.un.org/wpp/
 
 File: WPP2024_Demographic_Indicators_Medium.csv
 
-**Main Objective**  
+**3. Main Objective**  
 
 To analyze population trends for Lebanon using official UN WPP data, understand how Lebanon’s demographics changed from 1950 to 2023 and what the UN projects until 2100.  
 
-**Data and Features Chosen**
+**4. Data and Features Chosen**
 
   Chosen features - efficient minimal set covering demographic balancing equation:
 
@@ -32,16 +32,14 @@ To analyze population trends for Lebanon using official UN WPP data, understand 
 
 
 
-**Specific Objectives**
+**5. Specific Objectives**
 
 To answer:
 
-- How did Lebanon's total population change from 1950-2026 ?
+- How did Lebanon's total population change from 1950-2026 ? When was the fastest growth?
 
 - What is the UN scenario Immigration projection for Lebanon 2030, 2050, 2100?
- 
-- When was the fastest growth?
- 
+  
 - Is Lebanon getting older? (MedianAgePop)
 
  -How does Lebanon compare to World for Total fertility rate (TFR) and  World average rate (LEx) ?
@@ -56,21 +54,22 @@ To answer:
 
 -  Will the miration numbers for Lebanon fill the depopulation gap in the future ?
 
-**Methodology**  
+**6. Methodology**  
 
 Tools: Python, pandas, matplotlib / plotly  
 Choose Lebanon from the table of UN measurements by Filtering ISO3 = LBN, then clean, visualize  .
 
-**Analysis and Output**  
-4-6 charts (population curve, median age, fertility, life expectancy, comparison,immigration)  
+**7. Analysis and Output**  
+11 charts (population curve, median age, fertility, life expectancy, comparison,immigration)  
 
-### 4.1 Population Growth Analysis 1950-2026
+### 8.1 Population Growth Analysis 1950-2026
 
-How did Lebanon's total population change from 1950-2023? When was the fastest growth?
+How did Lebanon's total population change from 1950-2025? When was the fastest growth?
 
-Here Chart 1 - Chart1_Population_growth.png
+Here Chart1
 ![Bar Chart: Population growth from 1950-2023](Chart1_Population_growth.png)
 
+Chart2
 ![Line Chart: Population growth from 1950-2023](Chart2_Population_Change1950-2023.png)
 
 Key insight:  
@@ -78,13 +77,14 @@ Key insight:
 2016 peak   ~6.23M (including refugees)  
 2023        ~5.8M. Fastest growth was in 2012-2014.
 
-### 4.2 UN Population Projection 2030, 2050, 2100
+### 8.2 UN Population Projection 2030, 2050, 2100
 
 What does UN project about populationfor 2030, 2050, 2100?
 
+Chart3
 ![Line Plot : 1950-2100 full projection](Chart3_Population_Change1950-2100.png)
 
-### 4.3 Age Structure Analysis
+### 8.3 Age Structure Analysis
 
 Is Lebanon getting older?
 
@@ -98,32 +98,124 @@ The country is becoming older with time:
 2023             ~31y  
 2100 projected   ~45y.
 
-### 4.4 Lebanon vs World Comparison: Fertility & Life Expectancy  
+### 8.4 Lebanon vs World Comparison: Fertility & Life Expectancy  
 **Fertility Rate Per Woman: TFR**  
-Comparing Lebanon vs World for fertility rate: TFR  
+Comparing Lebanon vs World for fertility rate: TFR 
+ -How does Lebanon compare to World for Total fertility rate (TFR) and  World average rate (LEx) ?
+
+Chart5
 ![Line plot TFR_World vs TFR_LBN 1950-2023](Chart7_comparison_TFR.png)  
 
 Findings of Lebanon records:  
-Phase A 1950-1965 High and stable ~5.8 - Pre-transition, rural society, low contraception.  
-Phase B 1965-1990 Rapid decline 5.8 -> 3.4 - Female education + Beirut urbanization, later marriage age - civil war 1975-1990 delayed family formation, contraception access.  
-Phase C 1990-2008 Below replacement 3.4 -> 2.1 - Post-war, more women in workforce. Reached 2.1 around 2005.
-Phase D 2008-2023 Stable low ~2.2-2.4  
 
-**Life Expectancy at Birth: LEx**  
+Phase A: 1950-1965 High and stable ∼5.8 Pre-transition
+rural society
+low contraception.
+
+Phase B: 1965-1990 Rapid decline from 5.8 to 3.4
+This is the main drop
+Due to:
+Female education + Beirut urbanization
+Later marriage age - civil war 1975-1990 delayed family formation
+Contraception access
+Economic cost of children rising
+
+Phase C: 1990-2008
+Below replacement from 3.4 to 2.1
+Post-war, economic crisis, more women in workforce. Lebanon reached 2.1 (replacement level) around 2005.
+
+Phase D: 2008-2023 Stable low ∼2.2-2.4
+Slight bump 2008-2015 due to relative stability, then flat. Now slightly below replacement.
+
+**8.5 Life Expectancy at Birth: LEx**  
 Comparing Lebanon vs World for Life Expectancy at birth: LEx
+
+Chart6
 ![Line plot LEx_World vs LEx_LBN 1950-2023 with Corona Pandemic annotation](Chart8_comparison_LEx.png)  
 
-In Lebanon :How did LEx improve? 60 to 78 years - with 2 crashes  
-1950-1974: 60 -> 66 years  
-CRASH 1: 1975-1976 -> 37 years - Start of Civil War  
-CRASH 2: 1982 -> 46 years - Israeli invasion of Lebanon, siege of Beirut  
-1990-1991: Jump 64 -> 71 years - End of civil war  
-1991-2019: 71 -> 78.5 years  
-CRASH 3: 2020-2021: 78.2 -> 73.5 years - COVID-19 + Beirut port explosion + economic collapse
+How did LEx improve?
+
+1950-1974: Increase from 60 To 66 years
+
+slow improvement, better healthcare, vaccines, less infant mortality.
+CRASH 1: 1975-1976: Dropped to 37 years
+Start of Civil War. This is not biological, it's mortality spike from war deaths. CRASH 2: 1982: Dropped to 46 years
+Israeli invasion of Lebanon, siege of Beirut.
+1990-1991: Jumped from 64 to 71 years
+End of civil war. Healthcare system rebuilt, mortality drops instantly.
+1991-2019: Inclined from 71 to 78.5 years
+Steady increase due to modern hospitals, lower infant mortality, better living standards.
+CRASH 3: 2020-2021: Declined 78.2 To 73.5 years - COVID-19 + Beirut port explosion (Aug 2020) + economic collapse.
 
 
-### 4.5 UN Projection For future net migration For Leabnon
+Summary - Lebanon vs World LEx 1950-2023:
 
-What does UN project for future net migration for Lebanon until 2100?
+1950-1974
+Pre-war: Lebanon always +10y above World (60 vs 46.5). Stable growth.
+1975
+Civil War Start: LEx Lebanon crashes from 66.5 to 36.5y. Falls below World for first time.
+1982
+Israeli Invasion: Second crash from 60 to 47y. Again below World.
+1990-2019
+Post-war: Fast recovery to 78y. Gap with World shrinks from 13y to 5y - Lebanon gain advantage above the world
+2020-2021
+Lebanon dropped from 78.1 to 73.5y due to COVID + Port Explosion + Economic Crisis
+World dropped from 72.4 to 71y due to pandemic.
+Lebanon drop is 3x larger.
+2022-2023
+Lebanon Rebound to 77.9y.
 
-![Chart9_Immigration1950_2100.png](Chart9_Immigration1950_2100.png)
+### 8.6 How did fertility rate (TFR) drop?  
+Chart7  
+
+What is TFR of 2:1 ? It means each 2 parents are having 1 child, that is : replaced by one child.
+Why 2.1 and not 2.0?
+Parents need 2 children to replace them 0.1 extra because some children don't survive to adulthood, and slightly more boys are born than girls
+If TFR > 2.1 = each generation is bigger than the last
+If TFR < 2.1 = each generation is smaller than the last
+If TFR = 2.1 = population exactly replaces itself
+
+Once it is 2.1 for 25+ years, society can never recover because there is fewer mothers in the next generation.
+That's why median age goes from 20 to 45.
+
+
+### 8.7 Are the fertility rate (TFR) and median age(MEdianAgePop) related ?  
+
+Chart8
+
+We notice that the median age is inversly proportional to Fertility rate. And by lgic when no new borns are increasing, the median age increases.
+So the median age increase is a consequence of decline in fertility rate.  
+
+### 8.8 How the Crude Birth rates and Death Birth Rates are changing, and is there population growth or depopulation?
+
+Chart9
+
+Why: Populaton difference rate = births - deaths per 1000.  
+If this is >0, population grows naturally. If <0, more people die than are born. That's the core of depopulation.
+
+### 8.9 How the migration numbers in Lebanon got affected from 1950 till 2026, and what did the UN project about migration numbers for the future?
+
+Chart 10 
+
+2019 economic crisis starts
+
+Banks freeze dollars
+-Lira devalues 90%, this means People WANT to leave but CAN'T afford ticket + visa.
+So outflow drops from -270 to -150.
+2020-2021
+COVID travel bans
+
+Airports closed. Both in and out = 0. Net rate goes from -250 to -30 automatically because Immigrants = 0 and Emigrants = 0, so Net = 0.
+2022+
+UN projection smooths to 0
+-UN WPP 2024 assumes migration returns to normal long-term average -0.9 per 1000 So they model it as flat near 0
+### 8.10 -  Will the miration numbers for Lebanon fill the depopulation gap in the future ?
+
+Chart11
+
+Total growth = Pop-difference-rate + Migration.
+After 2019 Pop-difference-rate dropped to ∼3 per 1000, so it could no longer absorb migration shocks.
+In 2020 Migration was ~-50 per 1000, so Total became -47 — the loss increased.
+For 2024-2100 UN projects Migration ∼0, but Pop-difference-rate goes negative after 2045, so Total stays negative.
+
+### 9 Conclusion
