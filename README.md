@@ -96,25 +96,24 @@ The country is becoming older with time:
 
 ### 8.4 Lebanon vs World Comparison: Fertility & Life Expectancy  
 **Fertility Rate Per Woman: TFR**  
-Comparing Lebanon vs World for fertility rate: TFR 
- -How does Lebanon compare to World for Total fertility rate (TFR) and  World average rate (LEx) ?
+Comparing Lebanon vs World for fertility rate: TFR   
+How does Lebanon compare to World for Total fertility rate (TFR) and  World average rate (LEx) ?
 
 
 ![Chart5_comparison_TFR.png](Chart5_comparison_TFR.png)  
 
 Findings of Lebanon records:  
-Phase A: 1950-1965 High and stable ∼5.8 Pre-transition  
+Phase A:  1950-1965 High and stable ∼5.8 Pre-transition  
 rural society  
 low contraception.
   
-Phase B: 1965-1990 Rapid decline from 5.8 to 3.4  
+Phase B:  1965-1990 Rapid decline from 5.8 to 3.4  
 This is the main drop  
 Due to:  
 Female education + Beirut urbanization  
 Later marriage age - civil war 1975-1990 delayed family formation  
 Contraception access  
-Economic cost of children rising
-  
+Economic cost of children rising  
 Phase C: 1990-2008  
 Below replacement from 3.4 to 2.1  
 Post-war, economic crisis, more women in workforce. Lebanon reached 2.1 (replacement level) around 2005.
